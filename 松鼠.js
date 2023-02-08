@@ -56,7 +56,7 @@ oS.Init({
 		CustomSpecial(oWallNut, 3, 8);
 		CustomSpecial(oWallNut, 4, 8);
 		CustomSpecial(oWallNut, 5, 8);
-		CustomSpecial(oWallNut2, 1, 9);
+		CustomSpecial(oWallNut, 1, 9);
 		CustomSpecial(oWallNut, 2, 9);
 		CustomSpecial(oWallNut, 3, 9);
 		CustomSpecial(oWallNut1, 4, 9);
